@@ -1,0 +1,9 @@
+Simon Prateek;Employee;3000
+Gracja Efraim;Employee;2000
+Illtyd Prue;Employee;2500
+Nikol Viivi;Employee;2456
+Asherah Egon;Employee;2343
+Jodene Tondra;Employee;1200
+Paris Juan Antonio;Employee;4000
+Vimal Olusola;Employee;3000
+Beatriz Gerhild;Employee;3500

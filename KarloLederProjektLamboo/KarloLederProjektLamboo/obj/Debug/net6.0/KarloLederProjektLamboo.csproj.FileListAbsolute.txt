@@ -1,0 +1,14 @@
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\bin\Debug\net6.0\KarloLederProjektLamboo.exe
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\bin\Debug\net6.0\KarloLederProjektLamboo.deps.json
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\bin\Debug\net6.0\KarloLederProjektLamboo.runtimeconfig.json
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\bin\Debug\net6.0\KarloLederProjektLamboo.dll
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\bin\Debug\net6.0\KarloLederProjektLamboo.pdb
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.AssemblyInfoInputs.cache
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.AssemblyInfo.cs
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.csproj.CoreCompileInputs.cache
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.dll
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\refint\KarloLederProjektLamboo.dll
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.pdb
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\KarloLederProjektLamboo.genruntimeconfig.cache
+C:\Users\tleder\source\repos\KarloLederProjektLamboo\KarloLederProjektLamboo\obj\Debug\net6.0\ref\KarloLederProjektLamboo.dll

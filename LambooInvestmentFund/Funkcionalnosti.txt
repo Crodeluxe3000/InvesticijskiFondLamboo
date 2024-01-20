@@ -1,0 +1,17 @@
+Klasa Investicija (Klijent ID, Dionica_znak, Broj Dionica, Trenutna Cijena Kupovine, Mjesec Kupovine. Godina kupovine)
+Klasa Dionica (Znak (Ime), Trenutna Cijena Dionice)
+Klasa KretnjaDionice (Znak (Dionice), mjesec, godina, cijenaNaKrajuMjeseca)
+(done)
+
+Analiza
+Popis 5 klijenata sa najviše investicija (done)
+Popis 5 klijenata sa najmanje investicija (done)
+Popis 3 najunosnijih prodaja (done)
+Popis 3 najneunosnijih prodaja (done)
+Najbolja investicija mjeseca (godine) (done)
+Najgora investicija mjeseca (godine) (done)
+Month-to-Month top kretnji rasta (done?)
+Month-to-Month top kretnji pada (done?)
+Month-to-Month top kretnji rasta (%) (done?)
+Month-to-Month top kretnji pada (%) (done?)
+*Veštačka logika* kad je najbolje bilo kupit/prodat dionicu za najbolju zaradu
